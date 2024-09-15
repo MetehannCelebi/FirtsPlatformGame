@@ -358,7 +358,13 @@
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Assets/Platformer  Pack/Platformer Starter Pack_URP/Scripts/SimpleCameraController.cs"
+"Assets/Art/Kawaii Slimes/Cameras/Scripts/AbstractTargetFollower.cs"
+"Assets/Art/Kawaii Slimes/Cameras/Scripts/FreeLookCam.cs"
+"Assets/Art/Kawaii Slimes/Cameras/Scripts/PivotBasedCameraRig.cs"
+"Assets/Art/Kawaii Slimes/Scripts/AI/EnemyAi.cs"
+"Assets/Art/Kawaii Slimes/Scripts/AI/Face.cs"
+"Assets/Art/Kawaii Slimes/Scripts/GameManager.cs"
+"Assets/Art/Platformer  Pack/Platformer Starter Pack_URP/Scripts/SimpleCameraController.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
